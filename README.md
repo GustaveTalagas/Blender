@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" width="100%">
+  <img src="images/Banner.png" width="100%">
 </div>
 
 # Simulations 3D : Maths & Physique
