@@ -7,15 +7,6 @@
     alt="Earth"
   />
 
-  <br>
-
-  <h1>SIMULATIONS 3D</h1>
-  <h3>Mathematics · Physics · Blender</h3>
-
-</div>
-
-<br>
-
 ---
 
 ## Projets
