@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/banner.png" width="100%">
+</div>
+
 # Simulations 3D : Maths & Physique
 
 Carnet d'expérimentations (2023) regroupant des projets de modélisation mathématique et physique réalisés sur Blender. 
