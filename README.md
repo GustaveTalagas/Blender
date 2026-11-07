@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GustaveTalagas/Blender/main/images/Banner.png" width="100%">
-</div>
+![Bannière](https://github.com/GustaveTalagas/Blender/blob/main/images/Banner.png?raw=true)
 
 # Simulations 3D : Maths & Physique
 
