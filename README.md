@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://github.com/GustaveTalagas/Blender/blob/main/images/Banner.png?raw=true"
+    src="https://github.com/GustaveTalagas/Blender/blob/main/images/Banner_panoramique.png?raw=true"
     width="100%"
     alt="Earth"
   />
