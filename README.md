@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/GustaveTalagas/Blender/main/images/Banner.png" width="100%">
 </div>
 
 # Simulations 3D : Maths & Physique
